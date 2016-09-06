@@ -1,7 +1,7 @@
 {
-  "name": "cordova-chatapp",
+  "name": "golf-app",
   "version": "1.1.1",
-  "description": "cordova-chatapp: An Ionic project",
+  "description": "Copa Infochannel",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",

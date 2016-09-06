@@ -39,19 +39,19 @@
     },
     "installed_plugins": {
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.ionicframework.cordovachatapp811900"
+            "PACKAGE_NAME": "com.ionicframework.golfapp"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.ionicframework.cordovachatapp811900"
+            "PACKAGE_NAME": "com.ionicframework.golfapp"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.ionicframework.cordovachatapp811900"
+            "PACKAGE_NAME": "com.ionicframework.golfapp"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.ionicframework.cordovachatapp811900"
+            "PACKAGE_NAME": "com.ionicframework.golfapp"
         },
         "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "com.ionicframework.cordovachatapp811900"
+            "PACKAGE_NAME": "com.ionicframework.golfapp"
         }
     },
     "dependent_plugins": {},
